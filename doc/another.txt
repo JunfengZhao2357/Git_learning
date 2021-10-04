@@ -3,3 +3,4 @@ test2.
 we are editing this file for the first time!
 add non fast-forward
 test3.
+Same person change the same file on the same line.
