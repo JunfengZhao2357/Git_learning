@@ -1,3 +1,4 @@
 This is the another file test.
+test2.
 we are editing this file for the first time!
 add non fast-forward
